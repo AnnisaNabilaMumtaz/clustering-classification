@@ -35,7 +35,7 @@ Hasil
 
 - Cluster dapat digunakan untuk strategi marketing yang lebih tepat sasaran
 
-## 📂 2. Classification – Predictive Model
+## 2. Classification – Predictive Model
 Deskripsi
 
 Project ini membangun model klasifikasi menggunakan algoritma Decision Tree untuk memprediksi label tertentu pada dataset
